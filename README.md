@@ -25,7 +25,7 @@ BANTAY (Barangay-based Analysis of Notifiable Diseases for Tracking, Alerting, a
 ##  Scope
 BANTAY is designed to complement iClinicSys, not replace it. Data must be exported and uploaded manually. The system uses descriptive analytics and rule-based alerts; it does not perform machine-learning-based outbreak prediction. Alerts support surveillance and do not constitute official outbreak declarations.
 
-## 🎓 Project Information
+##  Project Information
 - **Project Type:** BSIT Capstone Project
 - **Institution:** Divine Word College of Calapan
 - **Intended Organization:** Calapan City Health Office

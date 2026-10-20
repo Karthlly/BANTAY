@@ -32,4 +32,4 @@ BANTAY is designed to complement iClinicSys, not replace it. Data must be export
 - **Domain:** Public Health Informatics, Data Analytics, and Web Development
 
 ---
-*BANTAY — Supporting better disease surveillance through data and technology.*v
+
